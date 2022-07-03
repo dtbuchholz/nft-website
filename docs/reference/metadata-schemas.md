@@ -113,18 +113,18 @@ As noted, the [OpenSea metadata recommendations](https://docs.opensea.io/docs/m
 ...
 "attributes": [
 	{
-		"trait_type": "Background",
-		"value": "Green"
+	    "trait_type": "Background",
+	    "value": "Green"
 	},
 	{
-		"trait_type": "Head",
-		"value": "Hat"
+	    "trait_type": "Head",
+	    "value": "Hat"
 	},
 	{
-    "trait_type": "Level",
-    "display_type": "number", 
-    "value": 10
-  }
+	    "trait_type": "Level",
+	    "display_type": "number", 
+	    "value": 10
+	}
 	...
 ]
 ...
